@@ -1,3 +1,9 @@
+// Coding Challenge Day 1 bulan 3 
+// day 1/3/2025
+// https://www.codewars.com/kata/57f780909f7e8e3183000078/solutions/javascript
+
+
+
 // cara yang pertama
 
 // function grow(x) {
