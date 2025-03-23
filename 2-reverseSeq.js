@@ -1,6 +1,6 @@
 // Coding Challenge Day 2 bulan 3 
 // day 2/3/2025
-// https://www.codewars.com/kata/57f780909f7e8e3183000078/solutions/javascript
+// https://www.codewars.com/kata/5a00e05cc374cb34d100000d/solutions/javascript
 
 // Cara yang pertama 
 // const reverseSeq = (n) => {
